@@ -136,6 +136,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [iOS Goodies](http://ios-goodies.com/) - Weekly iOS newsletter. ([Archive](http://ios-goodies.com/archive))
 - [iOS Dev Weekly](https://iosdevweekly.com/) - Hand-picked round up of the best iOS development links every week. ([Archive](https://iosdevweekly.com/issues))
 - [Indie iOS focus weekly](https://indieiosfocus.com/) - Curated by Chris Beshore and published every Thursday. ([Archive](https://indieiosfocus.com/issues))
+- [Storefront Brief](https://fortune-insight.onrender.com/shop/) - Weekly App Store policy and fee notes for indie iOS teams shipping internationally. ([Archive](https://fortune-insight.onrender.com/shop/brief/issue-000-en.html))
 - [Swift Developments](https://andybargh.com/swiftdevelopments/)
 
 ## Marketing
@@ -171,3 +172,4 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 [![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists)
 [![Contribute](https://img.shields.io/badge/-contribute-0a0a0a.svg?style=flat&colorA=0a0a0a)](contributing.md)
 [![Twitter](http://bit.ly/latwitt)](https://twitter.com/learnanything_)
+
